@@ -3,4 +3,7 @@
 Belajar Github, ini adalah repository pertama buatan saya. mari belajar 
 
 ------
-saya tambahkan lagnsung dari editor github
+saya tambahkan langsung dari editor github
+
+
+belajar menggunakan pull
